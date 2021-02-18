@@ -1,0 +1,10 @@
+\\orbis.co.uk\london\Profiles\m.waller\Documents\ProgrammingExercise2015x\SampleProgram\ChessLib\bin\Debug\ChessLib.dll
+\\orbis.co.uk\london\Profiles\m.waller\Documents\ProgrammingExercise2015x\SampleProgram\ChessLib\bin\Debug\ChessLib.pdb
+\\orbis.co.uk\london\Profiles\m.waller\Documents\ProgrammingExercise2015x\SampleProgram\ChessLib\obj\Debug\ChessLib.csprojAssemblyReference.cache
+\\orbis.co.uk\london\Profiles\m.waller\Documents\ProgrammingExercise2015x\SampleProgram\ChessLib\obj\Debug\ChessLib.csproj.CoreCompileInputs.cache
+\\orbis.co.uk\london\Profiles\m.waller\Documents\ProgrammingExercise2015x\SampleProgram\ChessLib\obj\Debug\ChessLib.dll
+\\orbis.co.uk\london\Profiles\m.waller\Documents\ProgrammingExercise2015x\SampleProgram\ChessLib\obj\Debug\ChessLib.pdb
+C:\src\Repo\SampleProgram\ChessLib\bin\Debug\ChessLib.dll
+C:\src\Repo\SampleProgram\ChessLib\bin\Debug\ChessLib.pdb
+C:\src\Repo\SampleProgram\ChessLib\obj\Debug\ChessLib.dll
+C:\src\Repo\SampleProgram\ChessLib\obj\Debug\ChessLib.pdb
