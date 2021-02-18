@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\src\Repo\SampleProgram\SampleProgram.Test\bin\Debug\SampleProgram.Test.exe" total="13" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2021-02-18" time="23:10:59">
+  <environment nunit-version="2.5.10.11092" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\src\Repo\SampleProgram\SampleProgram.Test\bin\Debug" machine-name="LON-M50936-PPD" user="dsilvas" user-domain="SCHRODERSAD" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\src\Repo\SampleProgram\SampleProgram.Test\bin\Debug\SampleProgram.Test.exe" executed="True" result="Success" success="True" time="0.247" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SampleProgram" executed="True" result="Success" success="True" time="0.239" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.238" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestFixture1" executed="True" result="Success" success="True" time="0.238" asserts="0">
+                <results>
+                  <test-case name="SampleProgram.Test.TestFixture1.TestBishopMoveFromCorner" executed="True" result="Success" success="True" time="0.191" asserts="9" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestBishopMoveFromInsideTheBoard" executed="True" result="Success" success="True" time="0.001" asserts="11" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestComplexGamePlayMethod" executed="True" result="Success" success="True" time="0.024" asserts="1" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestComplexGameSetupMethod" executed="True" result="Success" success="True" time="0.003" asserts="2" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestGetValidHorizontalPositionMethod" executed="True" result="Success" success="True" time="0.001" asserts="9" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestGetValidVerticalPositionMethod" executed="True" result="Success" success="True" time="0.001" asserts="9" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestKnightMoveFromCorner" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestKnightMoveFromInsideBoard" executed="True" result="Success" success="True" time="0.002" asserts="10" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestPosition" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestQueenPlayMethod" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestQueenpMoveFromCorner" executed="True" result="Success" success="True" time="0.001" asserts="23" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestQueenpMoveFromInsideTheBoard" executed="True" result="Success" success="True" time="0.000" asserts="25" />
+                  <test-case name="SampleProgram.Test.TestFixture1.TestQueenSetupMethod" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
